@@ -45,7 +45,7 @@ Creating a New Project
 
 1\. First start up NVivo 14 or 15 from the main screen you can start a new project, open some sample projects, and access several resources for learning and using NVivo. We will look at a sample project later. For now, **click on New Project** to get started.
 
-<img src='/scraped_files/129/NVivo14_intro_001_1.PNG' alt='The NVivo 14 main screen with the bank project button outlined.' title='' width='1316' height='685' />
+<img src='{{ '/scraped_files/129/NVivo14_intro_001_1.PNG' | relative_url }}' alt='The NVivo 14 main screen with the bank project button outlined.' title='' width='1316' height='685' />
 
 2\. **Title your project**. For this tutorial we will name ours “NVivo Workshop”. If you’d like, you can add a description.
 
