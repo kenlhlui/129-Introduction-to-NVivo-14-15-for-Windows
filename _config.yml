@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Introduction to NVivo 14/15 for Windows
+description: Introduction to NVivo 14/15 for Windows (Map & Data Library, University of Toronto)
 theme: just-the-docs
 
 url: https://kenlhlui.github.io/129-Introduction-to-NVivo-14-15-for-Windows
@@ -9,3 +9,5 @@ aux_links:
   Template Repository: https://kenlhlui.github.io/129-Introduction-to-NVivo-14-15-for-Windows
 
 color_scheme: color
+
+logo: "/assets/images/mdl_university_of_toronto_logo.jpg"
